@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+* 
+Finance tracker practice app from the Rails Developer Course.ya
