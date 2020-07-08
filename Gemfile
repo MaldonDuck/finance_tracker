@@ -20,8 +20,11 @@ gem 'jbuilder', '~> 2.7'
 # Use Active Model has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 gem 'devise'
+# Devise used for out the box secure authentication
 gem 'devise-bootstrap-views', '~> 1.0'
+# Integrates Devise out the box functionality with Bootstrap for efficiency
 gem 'iex-ruby-client'
+gem "font-awesome-rails"
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'

@@ -1,7 +1,19 @@
 @import 'bootstrap/dist/css/bootstrap';
 
-/*
-.navbar-brand {
-  font-size: 3rem;
+/*--- General ---*/
+.no-right-padding {
+    padding-right: 0 !important;
 }
-*/
+
+.no-left-padding {
+    padding-left: 0!important;
+}
+
+/*--- Search Results ---*/
+.search-area {
+    padding-top: 50px;
+}
+
+.results-block {
+    display: inline-block;
+}
